@@ -1,4 +1,4 @@
-![Male Logo](https://i.imgur.com/Eam62Yw.png)
+![Male Logo](https://i.imgur.com/S5TU8BA.png)
 <!--
 **malespinozah/malespinozah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
