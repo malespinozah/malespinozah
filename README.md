@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-I'm currently styding ***Web Development** and my main gol is being specialized in _Front-End Development_.
+I'm currently styding **Web Development** and my main gol is being specialized in _Front-End Development_.
 
 
 <!--
