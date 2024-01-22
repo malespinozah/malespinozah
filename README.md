@@ -4,10 +4,10 @@
 
 I'm currently studying **Web Development** and my main goal is being specialized in _Front-End Development_. I love design web pages and also writing stories. I'm also a translator and interpreter in Spanish and English, and I ocassionaly do subtitling jobs.
 
-## PERSONAL MOTTO
+### PERSONAL MOTTO
 > Keep going, even more for those who left us.
 
-## CONTACT
+### CONTACT
 You can find me at malespinozah@gmail.com
 <!--
 **malespinozah/malespinozah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
