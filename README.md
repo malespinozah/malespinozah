@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Male Logo](https://i.imgur.com/Eam62Yw.png)
 <!--
 **malespinozah/malespinozah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
