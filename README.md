@@ -7,7 +7,8 @@ I'm currently studying **Web Development** and my main goal is being specialized
 ## PERSONAL MOTTO
 > Keep going, even more for those who left us.
 
-
+## CONTACT
+You can find me at malespinozah@gmail.com
 <!--
 **malespinozah/malespinozah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
