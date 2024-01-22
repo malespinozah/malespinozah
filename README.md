@@ -5,7 +5,7 @@
 I'm currently styding **Web Development** and my main goal is being specialized in _Front-End Development_. I love design web pages and also writing stories. I'm also a translator and interpreter in Spanish and English, and I ocassionaly do subtitling jobs.
 
 ## PERSONAL MOTTO
-```Keep going, even more for those who left us.```
+> Keep going, even more for those who left us.
 <!--
 **malespinozah/malespinozah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
