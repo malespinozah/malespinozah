@@ -9,9 +9,9 @@ Skills:
 - HTML, CSS & JavaScript
 
 In my free time:
-☀️ I like to walk and run 
-🍁 Coding web pages to improve my skills.
-✨ Fun fact: People usually think I'm a minor.
+- ☀️ I like to walk and run 
+- 🍁 Coding web pages to improve my skills.
+- ✨ Fun fact: People usually think I'm a minor.
 
 ### PERSONAL MOTTO
 > 🌸 Keep going, even more for those who left us.
