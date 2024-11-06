@@ -5,7 +5,7 @@
 I'm currently studying **Web Development** and my main goal is being specialized in _Front-End Development_. I love design web pages and also writing stories. I'm also a translator and interpreter in Spanish and English, and I ocassionaly do subtitling jobs.
 
 Skills: 
-- SQL
+- SQL, Node.js, MongoDB, React, Express
 - HTML, CSS & JavaScript
 
 In my free time:
